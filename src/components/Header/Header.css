@@ -1,0 +1,17 @@
+.header {
+  height: 50px;
+  display: flex;
+  background-color: white;
+}
+
+.headerList {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 50px;
+  height: max-content;
+  width: 100%;
+  align-self: center;
+  font-size: larger;
+  color: black;
+}
